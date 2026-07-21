@@ -19,14 +19,14 @@ metadata:
     short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6q0255_000-X.yaml, hash: 'sha256:19314dac1acb996fd0d07936485f3485da8020f600e81dd3ab9cc92627d1ee44'}
+  - {seq: 0, filename: KR6q0255_000-X.yaml, hash: 'sha256:a7d15c9224ef877a47b6406d3e3cc36eb300c261f35c65e219e46abdb978f5ed'}
   - {seq: 1, filename: KR6q0255_001-X.yaml, hash: 'sha256:73fa3750fc7d5d4abb1ae359171cd04987e42cb79dffb30e257ef9337e63b653'}
   - {seq: 2, filename: KR6q0255_002-X.yaml, hash: 'sha256:d5745d212748acb009579114cff04c786682b260cc11a6cff34728f036a2d78a'}
   - {seq: 3, filename: KR6q0255_003-X.yaml, hash: 'sha256:acebcde16be961aab88828dcd5691732c3c468acd39c07cd49e43fb4f8ebba2d'}
   - {seq: 4, filename: KR6q0255_004-X.yaml, hash: 'sha256:3c68b6a812183b15b0aa533822136f276037c594bbf8eafd71054da29c88afba'}
   - {seq: 5, filename: KR6q0255_005-X.yaml, hash: 'sha256:c76f0d7279272f701ccfc998f18cb7b50034ea68769ecddb4744e425d2997753'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6q0255_000-X.markers.yaml, hash: 'sha256:fd872da8db7654a4593b9582790f881e7135b55465432d198a7a16eeca982a3c'}
+  - {seq: 0, role: markers, filename: assets/KR6q0255_000-X.markers.yaml, hash: 'sha256:66532c8a973e504b3c6d2fe52e6366f30af5e20ede6e756bf3e912602efa273f'}
   - {seq: 1, role: markers, filename: assets/KR6q0255_001-X.markers.yaml, hash: 'sha256:57a3681b7f6d94b11670bd2a3637cdc4029ed78eb30fb1ae908ee6a4025f0091'}
   - {seq: 2, role: markers, filename: assets/KR6q0255_002-X.markers.yaml, hash: 'sha256:fe20536a6bdcc9eef991d1a66b917a5551f4fc86a709cafea9414bd9e3e66815'}
   - {seq: 3, role: markers, filename: assets/KR6q0255_003-X.markers.yaml, hash: 'sha256:3bbb99c3394cf9f71c69613c653d5904e8e75bf8322eb41ec6099f9fea587551'}
@@ -37,7 +37,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0255_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 1308-A 序
@@ -47,7 +47,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0255_X_000-mulu-2
     span:
-    - front
+    - body
     - 708
     - 708
   label: 徑山滴乳集凡例
@@ -57,7 +57,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0255_X_000-mulu-3
     span:
-    - front
+    - body
     - 1255
     - 1255
   label: 徑石滴乳集目錄
@@ -1093,4 +1093,4 @@ table_of_contents:
   label: 永正元禪師法嗣
   type: mulu
   level: 1
-hash: sha256:7639bfdde409cf340095861cf195dcca37c10189ac327c48665c61027ecf3fb2
+hash: sha256:2e65e9f457ed1505310a53f222f35f1a5e94382663037870c072d6e3b7d9e6f9
